@@ -1,0 +1,1 @@
+GlennOS is a simple series of Bash scripts I've written so that my class could get a Raspberry Pi webserver up and running ASAP. The idea came from my love of DietPi but I needed more control over installation and easily accessible configuration files.
